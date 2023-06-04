@@ -5,7 +5,7 @@ url = "https://v3.football.api-sports.io/teams?league=128&season=2023"
 
 payload = {}
 headers = {
-    'x-rapidapi-host': "api-football-v1.p.rapidapi.com",
+    'x-rapidapi-host': "v3.football.api-sports.io",
     'x-rapidapi-key': "c347da80012545f47dd7ac448d329d83"
     }
 
